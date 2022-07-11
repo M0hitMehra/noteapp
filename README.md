@@ -1,3 +1,5 @@
+NOTE - Its a CRUD MERN app (but i have not connected it to mongo atlas) you have to create datbase and provide url in backend 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
